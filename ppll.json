@@ -1,6 +1,7 @@
 {
     "success": true, "message": "",
     "data": [{"id": 1,
+    "place": 1,
     "level_id": 95662246,
     "length": 102,
     "name": "I Miss HLL",
