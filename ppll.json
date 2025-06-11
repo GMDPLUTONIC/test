@@ -32,6 +32,38 @@
             "name": "Nessus is Dead",
             "creator": "YaBoiMega",
             "video": "https://www.youtube.com/watch?v=JSWqqtIMJ7Q"
+        },
+        {
+            "id": 5,
+            "place": 5,
+            "level_id": 116135728,
+            "name": "PPLLLife",
+            "creator": "Roxiiiiii, YaBoiMega, & More",
+            "video": "https://www.youtube.com/watch?v=jwE-t25XfDw"
+        },
+        {
+            "id": 6,
+            "place": 6,
+            "level_id": "N/A",
+            "name": "Eternal Amethyst",
+            "creator": "OceanMan999123",
+            "video": "https://www.youtube.com/watch?v=r-R57eFtHAw"
+        },
+        {
+            "id": 7,
+            "place": 7,
+            "level_id": 91933361,
+            "name": "Palace of Eternia",
+            "creator": "Roxiiiiii & More",
+            "video": "https://www.youtube.com/watch?v=VAnxFUdiI38"
+        },
+        {
+            "id": 44,
+            "place": 44,
+            "level_id": 113952977,
+            "name": "Winter Night",
+            "creator": "Angpor",
+            "video": "https://www.youtube.com/watch?v=nMrtlmuN5G0"
         }
     ]
 }
