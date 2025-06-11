@@ -58,6 +58,38 @@
             "video": "https://www.youtube.com/watch?v=VAnxFUdiI38"
         },
         {
+            "id": 8,
+            "place": 8,
+            "level_id": 115929441,
+            "name": "Nilopolis",
+            "creator": ".Nicolis",
+            "video": "https://www.youtube.com/watch?v=oZMnnsUn9Ik"
+        },
+        {
+            "id": 9,
+            "place": 9,
+            "level_id": 116636210,
+            "name": "Veil of Malice",
+            "creator": "De3am",
+            "video": "https://www.youtube.com/watch?v=DBx4eg0FRSw"
+        },
+        {
+            "id": 10,
+            "place": 10,
+            "level_id": 108293048,
+            "name": "Chromatic Genesis",
+            "creator": "De3am",
+            "video": "https://www.youtube.com/watch?v=b7vLVzfDofE"
+        },
+        {
+            "id": 11,
+            "place": 11,
+            "level_id": "N/A",
+            "name": "GTTAROF",
+            "creator": ".Nicolas",
+            "video": "https://www.youtube.com/watch?v=c7IV3IkMpug"
+        },
+        {
             "id": 44,
             "place": 44,
             "level_id": 113952977,
